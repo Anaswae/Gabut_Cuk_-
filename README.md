@@ -1,11 +1,18 @@
 # tools
 tools Gabungan
-# yang mau donasi buat 
-# perbaikan tools silahkan 
-# ke nomor ini 085347683869
-# masu gopay/pulsa sembarang aja ya wkwkw
-# bagi yang mau cok
-```
+yang mau donasi buat
+
+perbaikan tools silahkan
+
+ke nomor ini +6287713443306
+
+masu gopay/pulsa sembarang aja ya 
+
+bagi yang mau aja nya kak :)
+
+mudahan"an amal dan ibadah kak nya Selalu di berikan Rezeki yang ber limpah , amiin :)
+
+
 install lasi nya cok
 
 $pkg update && pkg upgrade
